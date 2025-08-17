@@ -29,7 +29,7 @@ This project uses **Streamlit** for the user interface and requires **FFmpeg** f
    ```
    or
    ```
-   go to ffmpeg-7.1.1-essentials_build folder and unzip
+   go to ffmpeg-7.1.1-essentials_build folder and unzip ffmpeg-7.1.1-essentials_build.part01.rar
    ```
 3. Extract the ZIP file to:
    ```
