@@ -27,11 +27,15 @@ This project uses **Streamlit** for the user interface and requires **FFmpeg** f
    ```
    ffmpeg-7.1.1-essentials_build.zip
    ```
-2. Extract the ZIP file to:
+   or
+   ```
+   go to ffmpeg-7.1.1-essentials_build folder and unzip
+   ```
+3. Extract the ZIP file to:
    ```
    C:\ffmpeg
    ```
-3. Add `C:\ffmpeg\bin` to your **system PATH**:
+4. Add `C:\ffmpeg\bin` to your **system PATH**:
    - Press **Win + R**.
    - Type `SystemPropertiesAdvanced` and press **Enter**.
    - Click **Environment Variables**.
@@ -41,7 +45,7 @@ This project uses **Streamlit** for the user interface and requires **FFmpeg** f
      C:\ffmpeg\bin
      ```
    - Save the changes.
-4. Verify installation:
+5. Verify installation:
    ```bash
    ffmpeg -version
    ```
