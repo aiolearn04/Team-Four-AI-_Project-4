@@ -64,3 +64,10 @@ http://localhost:8501
 - Python version should be **3.8 to 3.12**.
 - Make sure FFmpeg is installed and added to PATH.
 - If FFmpeg errors occur, restart your terminal or computer.
+
+- 🤖Team Four AI _Project 4
+
+🗣Mohsen Keshavarzian
+🗣Janyar Rakhshanfar
+🗣Mahla Jafarpour
+🗣Maryam Tejenjari
